@@ -1,4 +1,2 @@
-# inbox-desktop
-Desktop application for Mail and Calendar, made with Electron
-
-Sources are available with the [latests release](https://github.com/ProtonMail/inbox-desktop/releases/latest)
+# Inbox Desktop App
+This is a legacy repository of the Inbox Desktop App, the desktop application for Proton Mail and Calendar. It is kept online as older applications might need it to update to newer versions. The current version can be found in the [following repository](https://github.com/ProtonMail/WebClients/tree/main/applications/inbox-desktop).
