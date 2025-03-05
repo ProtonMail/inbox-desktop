@@ -59,20 +59,3 @@ UserVoice is available [here](https://protonmail.uservoice.com/).
 
 The best ways to get answer for generic questions or to get help with setting up the system is to interact with our active community on [Reddit](https://reddit.com/r/ProtonMail/) or to contact customer support.
 
-## Code contribution
-
-We are grateful if you can contribute directly with code. In that case there is nothing else to do than to open a pull request.
-
-The following is worthwhile noting
-
-- The project is primarily developed on an internal repository, and the one on GitHub is only a mirror of it. For that reason, the merge request will not be merged on GitHub but added to the project internally. We are keeping the original author in the change set to respect the contribution.
-- The application is used on numerous platforms. To have higher chance your change to be accepted, consider all supported dependencies.
-- Give detailed description of the issue, preferably with test steps to reproduce the original issue, and to verify the fix. It is even better if you also extend the automated tests.
-
-### Contribution policy
-
-By making a contribution to this project:
-
-1. You assign any and all copyright related to the contribution to Proton AG;
-2. You certify that the contribution was created in whole by you;
-3. You understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information you submit with it) is maintained indefinitely and may be redistributed with this project or the open source license(s) involved.
